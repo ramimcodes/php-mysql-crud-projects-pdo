@@ -1,7 +1,7 @@
 # php-mysql-crud-projects-pdo
 
 <div>
-      <img src='./crud-image/screenshot.png' />
+      <img src='screenshot.png' />
 </div>
 <br/>
 
